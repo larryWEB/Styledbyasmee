@@ -212,7 +212,7 @@ header {
 /* Hero Section */
 .hero {
   height: 80vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/assets/images/hero-bg.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/images/asmeee.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -269,15 +269,15 @@ header {
 }
 
 .category-image.women {
-  background-image: url("/assets/images/category-women.jpg");
+  background-image: url("/images/asmeee.jpg");
 }
 
 .category-image.men {
-  background-image: url("/assets/images/category-men.jpg");
+  background-image: url("/images/asmeeee5.jpg");
 }
 
 .category-image.accessories {
-  background-image: url("/assets/images/category-accessories.jpg");
+  background-image: url("/images/asmeee.jpg");
 }
 
 .category-card h3 {
